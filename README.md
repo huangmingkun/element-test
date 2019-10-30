@@ -1,4 +1,4 @@
-# tencent-interview-project
+# interview-project
 
 > for interview
 
