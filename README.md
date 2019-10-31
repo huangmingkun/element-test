@@ -1,6 +1,6 @@
 # interview-project
 
-> for interview
+> element-test
 
 ## Build Setup
 
